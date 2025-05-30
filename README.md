@@ -46,7 +46,3 @@ Combine features easily:
 - NOT TESTED YET
 - A* Pathfinding Project support (optional)
 - NavMesh Agent support (optional)
-
-## License
-
-MIT License. See `LICENSE` file for details.
